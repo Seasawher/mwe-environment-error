@@ -1,0 +1,10 @@
+name = "mwe-environment-error"
+version = "0.1.0"
+defaultTargets = ["mwe-environment-error"]
+
+[[lean_lib]]
+name = "MweEnvironmentError"
+
+[[lean_exe]]
+name = "mwe-environment-error"
+root = "Main"

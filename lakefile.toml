@@ -8,3 +8,4 @@ name = "MweEnvironmentError"
 [[lean_exe]]
 name = "mwe-environment-error"
 root = "Main"
+supportInterpreter = true
